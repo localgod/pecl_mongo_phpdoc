@@ -10,7 +10,7 @@
  * @since    2012-06-01
  */
 /**
- * {MISSING}
+ * Thrown when there are errors reading or writing files to or from the database.
  *
  * @category Stub
  * @package  Mongo

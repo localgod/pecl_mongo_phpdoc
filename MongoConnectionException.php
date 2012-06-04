@@ -10,7 +10,7 @@
  * @since    2012-06-01
  */
 /**
- * {MISSING}
+ * Thrown when the driver fails to connect to the database.
  *
  * @category Stub
  * @package  Mongo

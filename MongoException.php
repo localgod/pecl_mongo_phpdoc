@@ -10,7 +10,8 @@
  * @since    2012-06-01
  */
 /**
- * {MISSING}
+ * This covers a bunch of different error conditions that may eventually 
+ * be moved to more specific exceptions, but will always extend MongoException. 
  *
  * @category Stub
  * @package  Mongo

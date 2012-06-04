@@ -18,14 +18,29 @@
  */
 class MongoDate {
 	/**
+	 * Number of seconds since January 1st, 1970. 
+	 * @var integer
+	 */
+	public $sec;
+	/**
+	 * Microseconds. 
+	 * @var integer
+	 */
+	public $usec;
+
+	/**
 	 * Creates a new date.
-	 * @param long $sec
-	 * @param long $usec
+	 * 
+	 * @param integer $sec  Number of seconds since January 1st, 1970. 
+	 * @param integer $usec Microseconds.
+	 * 
+	 *  @return void
 	 */
 	public function __construct($sec,$usec) {
 	}
 	/**
 	 * Returns a string representation of this date
+	 * 
 	 * @return string
 	 */
 	public function __toString() {
