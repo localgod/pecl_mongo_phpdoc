@@ -1,0 +1,30 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Localgod\\PeclMongoPhpDoc\\" : "src"
+		}
+	},
+	"name" : "localgod/PeclMongoPhpDoc",
+	"require" : {
+		"php" : ">=5",
+		"ext-mongo" : "*"
+	},
+	"authors" : [{
+			"name" : "Johannes Skov Frandsen",
+			"email" : "localgod@heaven.dk",
+			"homepage" : "https://github.com/localgod",
+			"role" : "Lead"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/localgod/PeclMongoPhpDoc/issues",
+		"source" : "https://github.com/localgod/PeclMongoPhpDoc"
+	},
+	"type" : "project",
+	"homepage" : "https://github.com/localgod/PeclMongoPhpDoc",
+	"license" : "MIT",
+	"description" : "Skeleton classes for the PHP PECL mongo extension, for IDE auto completion.",
+	"keywords" : [
+		"Mongo"
+	]
+}

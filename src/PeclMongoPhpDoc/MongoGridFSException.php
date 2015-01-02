@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Pecl mongo stub
  *
@@ -13,8 +14,9 @@
  * Thrown when there are errors reading or writing files to or from the database.
  *
  * @category Stub
- * @package  Mongo
- * @author   Johannes Skov Frandsen <localgod@heaven.dk>
+ * @package Mongo
+ * @author Johannes Skov Frandsen <localgod@heaven.dk>
  */
-class MongoGridFSException extends MongoException {
+class MongoGridFSException extends MongoException
+{
 }
