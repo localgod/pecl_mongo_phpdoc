@@ -4,7 +4,7 @@
 			"Localgod\\PeclMongoPhpDoc\\" : "src"
 		}
 	},
-	"name" : "localgod/PeclMongoPhpDoc",
+	"name" : "localgod/pecl_mongo_phpdoc",
 	"require" : {
 		"php" : ">=5",
 		"ext-mongo" : "*"
@@ -14,14 +14,20 @@
 			"email" : "localgod@heaven.dk",
 			"homepage" : "https://github.com/localgod",
 			"role" : "Lead"
+		}, {
+			"name" : "Roger Thomas",
+			"email" : "rogere84@gmail.com",
+			"homepage" : "http://www.rogerethomas.com",
+			"role" : "Contributor"
 		}
 	],
 	"support" : {
-		"issues" : "https://github.com/localgod/PeclMongoPhpDoc/issues",
-		"source" : "https://github.com/localgod/PeclMongoPhpDoc"
+		"issues" : "https://github.com/localgod/pecl_mongo_phpdoc/issues",
+		"source" : "https://github.com/localgod/pecl_mongo_phpdoc",
+		"wiki" : "https://github.com/localgod/pecl_mongo_phpdoc/wiki"
 	},
 	"type" : "project",
-	"homepage" : "https://github.com/localgod/PeclMongoPhpDoc",
+	"homepage" : "https://github.com/localgod/pecl_mongo_phpdoc",
 	"license" : "MIT",
 	"description" : "Skeleton classes for the PHP PECL mongo extension, for IDE auto completion.",
 	"keywords" : [
