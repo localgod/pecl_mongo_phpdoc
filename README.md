@@ -1,5 +1,7 @@
-PeclMongoPhpDoc
-===============
+[![Latest Stable Version](https://poser.pugx.org/localgod/pecl_mongo_phpdoc/v/stable)](https://packagist.org/packages/localgod/pecl_mongo_phpdoc) 
+[![License](https://poser.pugx.org/localgod/pecl_mongo_phpdoc/license)](https://packagist.org/packages/localgod/pecl_mongo_phpdoc)
+
+## PeclMongoPhpDoc
 
 Skeleton classes for the PHP PECL mongo extension, for IDE auto completion.
 
